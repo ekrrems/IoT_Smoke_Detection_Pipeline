@@ -1,4 +1,4 @@
-# IOT Smoke Detection Pipeline
+# IoT Smoke Detection Pipeline
 
 Welcome to the IoT Smoke Detection Pipeline Project! This project leverages data engineering and machine learning to detect smoke and fire hazards in real time using Internet of Things (IoT) sensors. The pipeline predicts the presence of smoke or fire based on environmental data collected from sensors.
 
